@@ -2,7 +2,7 @@ Welcome to the kitchen:
 
 1. Kheer
 2. Pasta
-3. Chicken dry
+3. Chicken gravy
 
 4. Beans
 5. Pizza
