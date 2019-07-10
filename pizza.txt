@@ -1,6 +1,6 @@
 here is what i want to add:
 
-1. go to dominos.com
+1. go to dominos.com or pizzahut.com
 2. To order the pizza, fill in your details and then press order.
 3. Wait for 20minutes and boom! there is your pizza at your step.
 Thank you
